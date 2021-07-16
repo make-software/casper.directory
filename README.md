@@ -1,9 +1,4 @@
----
-has_children: false
-nav_order: 1
----
-
-# Welcome
+# welcome
 
 Casper.Directory is a open-source, community initiative to provide a comprehensive overview 
 of [Casper Network](https://casper.network) related resources for developers, node operators and retail users
