@@ -1,9 +1,3 @@
----
-title: Welcome
-has_children: false
-nav_order: 1
----
-
 # Welcome
 
 Casper.Directory is a open-source, community initiative to provide a comprehensive overview 
